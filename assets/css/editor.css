@@ -1,0 +1,18 @@
+.dmg-posts {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.dmg-posts .dmg-posts__list {
+    cursor: pointer;
+    background-color: #fff;
+    border: 1px solid;
+    padding: 5px;
+}
+
+li.dmg-posts__list:hover {
+    background-color: #2b7cba;
+    color: white;
+}
+

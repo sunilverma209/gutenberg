@@ -1,0 +1,12 @@
+{
+    "name": "dmg/dmg-read-more-block",
+    "description": "A custom Gutenberg block to add a 'Read More' link to a selected post.",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "DMG\\Plugins\\DMGReadMore\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
